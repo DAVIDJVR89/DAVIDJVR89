@@ -2,7 +2,7 @@
 
 ### 🛡️ Cybersecurity Professional | Aspiring Ethical Hacker & Red Teamer
 
-After successfully completing the **Google Cybersecurity Professional Certificate**, I have fully transitioned into the security field. My passion lies in **Ethical Hacking** and **Offensive Security**, where I apply a methodical approach to identifying and mitigating risks. 
+After successfully completing the **Google Cybersecurity Professional Certificate**, I have fully transitioned into the security field. My passion lies in Ethical Hacking and Offensive Security, so I’m officially getting my hands dirty! I’m fully committed to mastering the craft through continuous study and practice.
 
 Coming from a background in **Sales & Operations**, I bring a unique perspective to the table: I don't just see technical vulnerabilities; I understand the business impact and the operational risks they represent.
 
