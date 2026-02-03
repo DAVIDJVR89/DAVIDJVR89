@@ -14,12 +14,6 @@ Coming from a background in **Sales & Operations**, I bring a unique perspective
 - ⚡ **The Goal:** Leveling up from foundational labs to complex, real-world infrastructure exploitation.
 - 🛠️ **Ethical Standards:** Committed to the PTES methodology and responsible post-exploitation cleanup.
 
-## 🛠️ Technical Toolkit
-| Category | Tools & Skills |
-| :--- | :--- |
-| **Offensive Security** | Linux (Kali/Parrot), Nmap, Privilege Escalation, Binary Capabilities Exploitation. |
-| **Defensive/Analysis** | SQL, Network Security, SIEM (Chronicle/Splunk), Risk Mitigation. |
-| **Operations** | Operational Stability, Internal Communication, Process Optimization. |
 
 ## 📂 Featured Project
 ### [Pentesting-Labs-Portfolio](https://github.com/TU_USUARIO/Pentesting-Labs-Portfolio)
