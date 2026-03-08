@@ -10,16 +10,9 @@ Coming from a background in **Sales & Operations**, I bring a unique perspective
 
 ## 🚀 My Journey
 - 🎓 **Latest Achievement:** Google Cybersecurity Professional Certificate (Completed).
-- 🏹 **Current Focus:** Deep-diving into Offensive Security, Penetration Testing, and Red Teaming.
+- 🏹 **Current Focus:** Deep-diving into Offensive Security, Penetration Testing, and Red Teaming. Studying to get the eJPTv2 certificate.
 - ⚡ **The Goal:** Leveling up from foundational labs to complex, real-world infrastructure exploitation.
 - 🛠️ **Ethical Standards:** Committed to the PTES methodology and responsible post-exploitation cleanup.
-
-
-## 📂 Featured Project
-### [Pentesting-Labs-Portfolio](https://github.com/TU_USUARIO/Pentesting-Labs-Portfolio)
-This is where I document my hands-on experience with vulnerable machines.
-* **Latest Lab:** "Breakout" Machine (Root access achieved via `tar` capability exploitation).
-* **Next Milestone:** Intermediate-level Active Directory labs.
 
 ---
 
