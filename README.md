@@ -20,5 +20,4 @@ Coming from a background in **Sales & Operations**, I bring a unique perspective
 - **LinkedIn:** [david-vásquez-roig](https://www.linkedin.com/in/david-v%C3%A1squez-roig/)
 - **GitHub:** You're already here! Feel free to explore my labs.
 
-*"In cybersecurity, the only way to stay ahead is to never stop learning. Currently studying for my next offensive security certifications."*
 
