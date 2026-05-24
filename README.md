@@ -10,7 +10,7 @@ Coming from a background in **Sales & Operations**, I bring a unique perspective
 
 ## 🚀 My Journey
 - 🎓 **Latest Achievement:** Google Cybersecurity Professional Certificate (Completed).
-- 🏹 **Current Focus:** Deep-diving into Offensive Security, Penetration Testing, and Red Teaming. Studying to get the eJPTv2 certificate.
+- 🏹 **Current Focus:**  Deep-diving into Offensive Security and Penetration Testing. Sitting the eJPTv2 exam on June 1st, 2026.
 - ⚡ **The Goal:** Leveling up from foundational labs to complex, real-world infrastructure exploitation.
 - 🛠️ **Ethical Standards:** Committed to the PTES methodology and responsible post-exploitation cleanup.
 
