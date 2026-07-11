@@ -21,5 +21,5 @@ Coming from a background in **Sales & Operations**, I bring a unique perspective
 
 - **LinkedIn:** [david-vásquez-roig](#)
 - **GitHub:** You're already here! Feel free to explore my labs:
-  - 🔵 [Blue-Team-Labs](#) — SOC & defensive security practice (BTL1 track)
-  - 🔴 [Pentesting-Labs](#) — Offensive security fundamentals (eJPTv2 track)
+  - 🔵 [Blue-Team-Labs](https://github.com/DAVIDJVR89/Blue-Team-Labs) — SOC & defensive security practice (BTL1 track)
+  - 🔴 [Pentesting-Labs](https://github.com/DAVIDJVR89/Pentesting-Labs) — Offensive security fundamentals (eJPTv2 track)
